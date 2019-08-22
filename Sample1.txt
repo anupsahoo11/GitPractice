@@ -6,3 +6,4 @@ Spain
 Brazil
 Peru
 Chile
+Canada
