@@ -7,3 +7,4 @@ Brazil
 Peru
 Chile
 Canada
+Mexico
